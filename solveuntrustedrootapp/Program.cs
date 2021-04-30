@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace solveuntrustedrootapp
+namespace solveuntrustedrootapp2
 {
     class Program
     {
