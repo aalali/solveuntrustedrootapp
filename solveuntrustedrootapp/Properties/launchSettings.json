@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "solveuntrustedrootapp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
